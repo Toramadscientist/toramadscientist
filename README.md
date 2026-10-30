@@ -3,5 +3,8 @@
 <!--
 **Toramadscientist/toramadscientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+## 📚 Sedang Dipelajari (Currently Learning)
+
+<img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="C" />
 
 
