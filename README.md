@@ -22,7 +22,7 @@
 <a href="https://github.com/Toramadscientist">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://discord.com/users/greatgodtora">
+<a href="https://discord.com/users/1389495068028702752">
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.reddit.com/u/Toraweirdguy/s/DT87nzFwlB">
