@@ -15,5 +15,16 @@
   <h2>📚 Sedang Dipelajari (Currently Learning)</h2>
   <img src="ISO_C++_Logo.svg.png" alt="C++" width="50" />
   <img src="C_Programming_Language.svg.png" alt="C" width="50"/>
+
+  <h2> 📱 Media sosial (Social media)</h2>
+<a href="https://github.com/Toramadscientist">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://discord.com/users/greatgodtora">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/Toraweirdguy/">
+  <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
 </div>
 
