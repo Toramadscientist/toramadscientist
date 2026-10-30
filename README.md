@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>📝 Tentang saya (About me)</h2>
-  
+  <p1> Saya adalah seorang Junior System engineer asal Indonesia yang sangat menyukai hal-hal berbau Anime dan teknologi </p1>
 <div align="center">
   <h2>📚 Sedang Dipelajari (Currently Learning)</h2>
   <img src="ISO_C++_Logo.svg.png" alt="C++" width="50" />
