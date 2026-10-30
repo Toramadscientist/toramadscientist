@@ -23,7 +23,7 @@
 <a href="https://discord.com/users/greatgodtora">
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://www.reddit.com/Toraweirdguy/">
+<a href="https://www.reddit.com/u/Toraweirdguy/s/DT87nzFwlB">
   <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 </div>
