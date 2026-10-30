@@ -5,7 +5,7 @@
 
 <div align="center">
   <h2>📚 Sedang Dipelajari (Currently Learning)</h2>
-  <img src="https://shields.io" alt="C++" width="150" />
-  <img src="https://shields.io" alt="C" width="150"/>
+  <img src="ISO_C++_Logo.svg.png" alt="C++" width="150" />
+  <img src="C_Programming_Language.svg.png" alt="C" width="150"/>
 </div>
 
