@@ -28,5 +28,6 @@
 <a href="https://www.reddit.com/u/Toraweirdguy/s/DT87nzFwlB">
   <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
-</div>
+
+![Blacksouls Gif](blacksouls-black-souls.gif)</div>
 
