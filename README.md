@@ -9,7 +9,9 @@
 
 
   <h2> 🧑‍💻 Hobi dan game kesukaan (Hobby and game favorite) </h2>
+<p1> 📺 Anime : Untuk anime genre favorit saya yaitu Psycological, Gore, Sci-fi, dan romance </p1>
 
+<p1> 🎮 Game : Game Favorit saya yaitu game Blacksouls yng genre Gore, Psycological, dan Minecraft game sandbox, dan game bertema visual novel lainnya</p1>
   
 <div align="center">
   <h2>📚 Sedang Dipelajari (Currently Learning)</h2>
