@@ -18,6 +18,7 @@
   <h2>📚 Sedang Dipelajari (Currently Learning)</h2>
   <img src="ISO_C++_Logo.svg.png" alt="C++" width="50" />
   <img src="C_Programming_Language.svg.png" alt="C" width="50"/>
+  <img src="icons8-assembly-96.png" alt="asm" width="50"/>
 
   <h2> 📱 Media sosial (Social media)</h2>
 <a href="https://github.com/Toramadscientist">
